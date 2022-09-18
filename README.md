@@ -1,3 +1,6 @@
+# HomeWork 2:
+- [Site](http://node-in-aws-course-task.s3-website.us-east-2.amazonaws.com/)
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
